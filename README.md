@@ -1,3 +1,3 @@
 # Postfix Calculator
 
-##### Course project for Data Structures and Algorithms course.
+Course project for Data Structures and Algorithms course.
