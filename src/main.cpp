@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Error_code.h"
-#include "Stack.h"
+#include "../include/Error_code.h"
+#include "../include/Stack.h"
 
 using std::cout, std::cin, std::endl;
 
